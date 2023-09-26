@@ -1,0 +1,7 @@
+{
+    "module": "nmap",
+    "args": {
+        "mode": "",
+        "target": ""
+    }
+}

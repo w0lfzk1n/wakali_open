@@ -1,0 +1,8 @@
+{
+    "module": "dirbust",
+    "args": {
+        "mode": "",
+        "duration": 90,
+        "target": ""
+    }
+}
